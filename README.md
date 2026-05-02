@@ -1,4 +1,4 @@
-[![Movie Recommender Demo](https://img.shields.io/badge/Demo-Movie%20Recommender-red?style=for-the-badge&logo=streamlit)](https://huggingface.co/spaces/olynchik/movie-recommender)
+- Hugging Face: [olynchik](https://huggingface.co/olynchik)
 # Привет, я Оля
 
 Студентка 4 курса прикладной математики и информатики (МЭИ), занимаюсь машинным обучением и анализом данных.
