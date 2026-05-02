@@ -9,7 +9,7 @@
 | [Movie Recommender](https://github.com/sorokinaolya/movie-recommender) | Рекомендательная система фильмов: SVD, content-based, cold start. Деплой на Hugging Face | Python, scikit-surprise, Streamlit |
 | [Real Estate Regression](https://github.com/sorokinaolya/real-estate-regression) | Прогнозирование цен на недвижимость в Москве, R²=0.89 | Python, sklearn, pandas |
 | [Travel Planning App](https://github.com/sorokinaolya/TravelPlanningApp) | SPA для планирования поездок | React, Hooks, React Router |
-| [CMA-ES & Optuna](https://github.com/sorokinaolya/CMA-ES-optuna-explanation) | Визуальное объяснение эволюционного алгоритма оптимизации | Python, numpy |
+| [CMA-ES & Optuna](https://github.com/sorokinaolya/CMA-ES-optuna-explanation) | Визуальное объяснение эволюционного алгоритма оптимизации. [Статья на Хабре](https://habr.com/ru/articles/1025274/) | Python, numpy |
 
 ## Стек
 
