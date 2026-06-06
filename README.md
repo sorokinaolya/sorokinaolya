@@ -20,5 +20,4 @@ MySQL, Linux, Git
 
 ## Контакты
 
-- Telegram: @soro1l
 - Email: sorokinaolya2@mail.ru
